@@ -1,3 +1,5 @@
+This is a Work-In-Progress as of 10/4/2026
+
 # N4M_Auto_Leveler
 Walk-Thru for adding sensors for Auto-Z-Offset &amp; Auto-Leveling to an Elegoo Neptune 4 Max 
 
