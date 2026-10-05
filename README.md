@@ -1,3 +1,5 @@
+[Updates Log](https://github.com/AL-ExtremeError/N4M_Auto_Leveler/wiki/Updates-Log)
+
 This is a Work-In-Progress as of 10/4/2026
 
 # N4M_Auto_Leveler
